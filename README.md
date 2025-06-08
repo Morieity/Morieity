@@ -18,7 +18,7 @@
 * 🚀:*Simple AI deployment and applications*
 * 📚:*Mathematical animation demonstrations with Manim*
 * 💡:*Quantum circuit algorithm applications with Qiskit*
-- 📫 How to reach me => morieityqaq@gmail.com
+- You can talk me here 👉📬 morieityqaq@gmail.com
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Morieity&show_icons=true&hide_border=true&count_private=true"/>
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Morieity&layout=compact&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" style="height:195px;"/>
