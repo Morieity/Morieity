@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I’m **@Morieity**. A programming beginner :)
 
-<!--
-**Morieity/Morieity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Tech Stack:
+   - Languages:
 
-Here are some ideas to get you started:
+     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+     ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   - Tools:
+ 
+     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+     ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### I'm currently learning:
+* 🫣:**Catching up on a semester's worth of many final exams for subjects I've neglected**
+* ✨:*Writing simple scripts*
+* 🚀:*Simple AI deployment and applications*
+* 📚:*Mathematical animation demonstrations with Manim*
+* 💡:*Quantum circuit algorithm applications with Qiskit*
+- 📫 How to reach me => morieityqaq@gmail.com
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Morieity&show_icons=true&hide_border=true&count_private=true"/>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Morieity&layout=compact&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" style="height:195px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morieity&theme=default&hide_border=false"/>
+  <h3>Viewer Counter:</h3><img src="https://profile-counter.glitch.me/Morieity/count.svg">
+</p>
