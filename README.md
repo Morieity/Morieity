@@ -1,18 +1,19 @@
 ## 👋 Hi, I’m **@Morieity**. A programming beginner :)
 
-- 💻 Tech Stack:
-   - Languages:
+### 💻 Tech Stack:
+- Languages:
 
      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
      ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-   - Tools:
+- Tools:
  
      ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
      ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
      ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-  ### I'm currently learning:
+### I'm currently learning:
+
 * 🫣:**Catching up on a semester's worth of many final exams for subjects I've neglected**
 * ✨:*Writing simple scripts*
 * 🚀:*Simple AI deployment and applications*
