@@ -23,6 +23,6 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Morieity&show_icons=true&hide_border=true&count_private=true"/>
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Morieity&layout=compact&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" style="height:195px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morieity&theme=default&hide_border=false"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morieity&theme=default&hide_border=false"/> -->
   <h3>Viewer Counter:</h3><img src="https://profile-counter.glitch.me/Morieity/count.svg">
 </p>
