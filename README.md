@@ -15,7 +15,7 @@
 
 ### I'm currently learning:
 
-* 🫣:**Catching up on a semester's worth of many final exams for subjects I've neglected**
+* 🥇:*Learning to build decoupled .NET projects*
 * ✨:*Writing simple scripts*
 * 🚀:*Simple AI deployment and applications*
 * 📚:*Mathematical animation demonstrations with Manim*
