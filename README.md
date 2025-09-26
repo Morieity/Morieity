@@ -18,8 +18,7 @@
 * 🥇:*Learning to build decoupled .NET projects*
 * ✨:*Writing simple scripts*
 * 🚀:*Simple AI deployment and applications*
-* 📚:*Mathematical animation demonstrations with Manim*
-* 💡:*Quantum circuit algorithm applications with Qiskit*
+* 🏁:*Simple Graph network*
 - You can talk me here 👉📬 morieityqaq@gmail.com
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Morieity&show_icons=true&hide_border=true&count_private=true"/>
