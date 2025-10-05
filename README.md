@@ -1,4 +1,4 @@
-## 👋 Hi, I’m **@Morieity**. A programming beginner :)
+## 👋 Hi, I’m **@Morieity**.I'd like learning sth interesting~
 
 ### 💻 Tech Stack:
 - Languages:
