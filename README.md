@@ -15,10 +15,10 @@
 
 ### I'm currently learning:
 
-* 🥇:*Learning to build decoupled .NET projects*
+* 🥇:*Learning to build normal .NET projects*
 * ✨:*Writing simple scripts*
 * 🚀:*Simple AI deployment and applications*
-* 🏁:*Simple Graph network*
+* 🏁:*Simple Python Project*
 - You can talk me here 👉📬 morieityqaq@gmail.com
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Morieity&show_icons=true&hide_border=true&count_private=true"/>
