@@ -18,7 +18,7 @@
 * 🥇:*Learning to build normal .NET projects*
 * ✨:*Writing simple scripts*
 * 🚀:*Simple AI deployment and applications*
-* 🏁:*Simple Python Project*
+* 🏁:*Simple rag proj in Python and cloud proj in Go language*
 - You can talk me here 👉📬 morieityqaq@gmail.com
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Morieity&show_icons=true&hide_border=true&count_private=true"/>
